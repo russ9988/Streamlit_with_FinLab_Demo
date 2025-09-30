@@ -15,9 +15,10 @@ using a streamlit to create a simple stock dashboard
 # Usage
 
 <pre><code>
-streamlit run app.py
+streamlit run app_demo.py
 </code></pre>
 
 # Result
 
 ![image](https://upload.cc/i1/2020/12/11/emS3zk.gif)
+
