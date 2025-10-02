@@ -4,7 +4,7 @@ using a streamlit to create a simple stock dashboard
 
 # Env:
 
-#### requestments:
+### requestments:
 
 - python 3.8.10
 - finlab==1.5.0
